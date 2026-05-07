@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6c5ce7,100:00cec9&height=300&section=header&text=Hussein%20El-Daramally&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Egypt%20🇪🇬&descAlignY=55&descSize=18&descColor=a29bfe"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,50:a29bfe,100:00cec9&height=250&section=header&text=Hussein%20El-Daramally&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Egypt%20🇪🇬&descAlignY=55&descSize=16&descColor=ffffff"/>
 
 <!-- Animated Typing -->
 <a href="https://github.com/s7so">
